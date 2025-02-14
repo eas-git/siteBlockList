@@ -1,0 +1,2 @@
+# siteBlockList
+Websites to block
