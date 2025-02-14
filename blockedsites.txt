@@ -6,4 +6,4 @@
 # 10.0.1.1 - Example.
 # domain.com - Example. Will also block all child domains.
 
-demo.com # Testing - 1
+^*\.demo\.com$ - Testing - 2
